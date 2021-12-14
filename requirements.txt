@@ -24,3 +24,5 @@ ffmpeg-python
 requests
 ytthumb
 pyrogram
+emoji-country-flag
+countryinfo
