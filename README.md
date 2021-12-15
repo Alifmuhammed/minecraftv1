@@ -39,7 +39,7 @@
 - [X] youtube video download  
 - [X] YouTube Thumbnail Download
 - [X] Zombies mode
-- [X] TGraph</b>
+- [X] TGraph </b>
 
 # <i>coming futures</i>
 
