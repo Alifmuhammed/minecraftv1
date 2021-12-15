@@ -43,9 +43,9 @@
 </b>
 
 # <i>coming futures</i>
-<i> File store </i>
-<i> Vc play </i>
-<i> more game </i>
+<b> File store </b>
+<b> Vc play </b>
+<b> more game </b>
 
 ## Variables
 
