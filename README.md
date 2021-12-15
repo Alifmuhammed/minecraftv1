@@ -17,7 +17,7 @@
 
 ## Features
 
-- [x] Auto Filter
+- [x] <b>Auto Filter
 - [x] Manual Filter
 - [x] IMDB
 - [x] Admin Commands
@@ -27,8 +27,13 @@
 - [x] Inline Search
 - [x] Random pics
 - [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] <b>Spelling mode </b>
+- [x] Stats
+- [x] Spelling mode 
+- [X] user
+- [x] ban and Unban
+- [x] game 
+- [x] song mode 
+- [x] chats</b>
 
 ## Variables
 
