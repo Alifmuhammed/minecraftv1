@@ -64,6 +64,19 @@ class script(object):
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
+
+    TGRAPH_TXT = """Help: <b>TGraph & Paste</b>
+
+Do as you wish with telegra.ph module!
+
+<b>Commands and Usage:</b>
+• /tgmedia or /tgraph - upload supported media (within 5MB) to telegraph.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
+
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
@@ -74,6 +87,91 @@ these are the extra features of Eva Maria
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
+    INFO_TXT = """Help: <b>Information</b>
+
+Get information about something!
+
+<b>Commands and Usage:</b>
+• /id - get id of a specifed user.
+• /info  - get information about a user.
+• /json - get the json details of a message.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
+
+    GTRANS_TXT = """Help: <b>Google Translator</b>
+
+Translate texts to a specific language!
+
+<b>Commands and Usage:</b>
+• /tr [language code][reply] - translate replied message to specific language.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• IMDb can translate texts to 200+ languages."""
+
+    SEARCH_TXT = """Help: <b>IMDb</b>
+
+Search many things without leaving telegram!
+
+<b>Commands and Usage:</b>
+• /imdb  - get the film information from IMDb source.
+• /search  - get the film information from various sources.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• More search tools can be found on inline.
+• Those commands works on both pm and group."""
+
+    PURGE_TXT = """Help: <b>Purge</b>
+Need to delete lots of messages? That's what purges are for!
+
+<b>Commands and Usage:</b>
+• /purge - delete all messages from the replied to message, to the current message.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on group.
+• These commands can be used by Only admin."""
+
+    RESTRIC_TXT = """Help: <b>Restrictions</b>
+
+Some people need to be publicly banned; spammers, annoyances, or just trolls.
+
+This module allows you to do that easily, by exposing some common actions, so everyone will see!
+
+<b>Commands and Usage:</b>
+• /ban - ban a user.
+• /tban - temporarily ban a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /mute - mute a user.
+• /tmute - temporarily mute a user. Example time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
+• /unban or /unmute - unmute a user & unban a user.
+
+<b>Examples:</b>
+- Mute a user for two hours.
+-> <code>/tmute @username 2h</code>
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on group.
+• These commands can be used by Only admin."""
+
+    PIN_MESSAGE_TXT = """Help: <b>Pin Message</b>
+
+All the pin related commands can be found here; keep your chat up to date on the latest news with a simple pinned message!
+
+<b>Commands and Usage:</b>
+• /pin: Pin the message you replied to. Add 'loud' or 'notify' to send a notification to group members.
+• /unpin: Unpin the current pinned message. If used as a reply, unpins the replied to message.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works only group.
+• These commands can be used by Only admin."""
+
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
@@ -91,6 +189,40 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
+    FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
+
+__🗣 In Order To Get The Movie Requested By You in Our Groups, You Will Have To Join Our Official Channel First. After That, Try Accessing That Movie Again From Our Group. I'll Send You That Movie Privately 🙈__
+
+**👇 JOIN THIS CHANNEL & TRY AGAIN 👇**"""
+
+    TTS_TXT = """Help: <b>Text to Speech</b>
+
+A module to convert text to voice with language support.
+
+<b>Commands and Usage:</b>
+• /tts - Reply to any text message with language code to convert as audio.
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
+
+    MUSIC_TXT = """Help: <b>Music</b>
+
+Music download modules, for those who love music.
+
+<b>Commands and Usage:</b>
+• /song or /mp3 (songname) - download song from yt servers.
+• /video or /mp4 (songname) - download video from yt servers.
+
+<b>YouTube Thumbnail Download</b>
+• /ytthumb (youtube link)
+<b>Example:</b> <code>/ytthumb https://youtu.be/h6PtzFYaMxQ</code>
+
+<b>NOTE:</b>
+• IMDb should have admin privillage.
+• These commands works on both pm and group.
+• These commands can be used by any group member."""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
