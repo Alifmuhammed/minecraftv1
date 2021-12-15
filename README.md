@@ -33,7 +33,15 @@
 - [x] ban and Unban
 - [x] game 
 - [x] song mode 
-- [x] chats</b>
+- [X] chats
+- [X] Pin and unpin
+- [X] text to Speech 
+- [X] youtube video download  
+- [X] YouTube Thumbnail Download
+- [X] Zombies mode
+- [X] TGraph</b>
+
+# <i>coming futures</i>
 
 ## Variables
 
