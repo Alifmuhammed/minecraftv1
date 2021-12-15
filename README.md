@@ -38,8 +38,9 @@
 - [X] text to Speech 
 - [X] youtube video download  
 - [X] YouTube Thumbnail Download
-- [X] Zombies mode </b>
-- [X] <b>TGraph</b>
+- [X] Zombies mode 
+- [X] TGraph
+</b>
 
 # <i>coming futures</i>
 
